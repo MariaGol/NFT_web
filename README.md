@@ -12,3 +12,5 @@ Website for NFT-service
 - STYLES - стили css к проекту
 - INDEX - html-документ на страничку
 
+![image](https://github.com/MariaGol/NFT_web/assets/113342672/fafa8893-5b17-41e2-ab7c-a12b244158a1)
+![image](https://github.com/MariaGol/NFT_web/assets/113342672/d19f83e8-a81a-4d59-ac83-a227bf404a14)
